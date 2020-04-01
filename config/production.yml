@@ -1,2 +1,5 @@
+server:
+  origin: https://nestjs-frontend-rafael.s3-sa-east-1.amazonaws.com
+
 db: 
   synchronize: false
